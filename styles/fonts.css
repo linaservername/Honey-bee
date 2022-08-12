@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Kod-bold';
+    src: url('../fonts/Kodchasan-Bold.ttf');
+}
+@font-face {
+    font-family: 'Kod-semi-bold';
+    src: url('../fonts/Kodchasan-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Kod-medium';
+    src: url('../fonts/Kodchasan-Medium.ttf');
+  
+}
